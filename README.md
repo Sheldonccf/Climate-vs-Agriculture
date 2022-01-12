@@ -78,4 +78,16 @@ exists between crop yield data and climate change
 <img src=https://user-images.githubusercontent.com/89536920/148704230-4f7509d6-6848-4ffd-9a25-99bae0cf9dc7.png width="400" height="150">
 <br />Figure 4: Example chart showing only the types of crop yield linearly correlated to temperature or precipitation change
 
+## See the Tableau Visualization of Regression Analysis
+<br />
+**Please use the following link to interact with the Tableau Dashboard Created by Me**
+<br />
+
+
+## See the Tableau Visualization of Canadian Crop Yield Data
+<br />
+**Please use the following link to interact with the Tableau Dashboard Created by Benjamin Kelly**
+<br />
+https://public.tableau.com/shared/DMJBHZYXR?:display_count=n&:origin=viz_share_link 
+
 
