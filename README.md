@@ -80,13 +80,21 @@ exists between crop yield data and climate change
 
 ## See the Tableau Visualization of Regression Analysis
 <br />
-**Please use the following link to interact with the Tableau Dashboard Created by Me**
+<img src=https://user-images.githubusercontent.com/89536920/149256530-5fc82053-4ccc-45ad-a3a0-5e2bb67093be.JPG width="800" height="350">
+Figure 5: Scatter plot of crop yields of different species vs temperature change in Canadian provinces in the past 80 years.
 <br />
-
+<br />
+Link:
+<br />
+https://public.tableau.com/views/Canadian_Crop_Yield_Climate_Change_Analysis/TemperatureVScrop_yield?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## See the Tableau Visualization of Canadian Crop Yield Data
 <br />
-**Please use the following link to interact with the Tableau Dashboard Created by Benjamin Kelly**
+<img src=https://user-images.githubusercontent.com/89536920/149250209-7a419cb8-c844-4902-81cd-ff7317198100.png width="800" height="400">
+Figure 6: Display of mapped data for metric tonnes of all crop types in 1997.
+<br />
+<br />
+Link:
 <br />
 https://public.tableau.com/shared/DMJBHZYXR?:display_count=n&:origin=viz_share_link 
 
