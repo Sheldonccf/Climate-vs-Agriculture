@@ -98,7 +98,7 @@ Link:
 <br />
 https://public.tableau.com/shared/DMJBHZYXR?:display_count=n&:origin=viz_share_link 
 
-## Predicting Crop Yield with a Trained a Linear Regression Model 
+## Predicting Crop Yield with a Trained a Linear Regression Model （Not Live on GitHub yet)
 <br />
 Please run the “Prediction.py" to train the linear model and enter valid values of temperature or precipition to predict a corresponding crop yield for a agricultural species.
 <br />
