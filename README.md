@@ -33,7 +33,7 @@ Link: https://www.kaggle.com/aturner374/eighty-years-of-canadian-climate-data
 
 # How to Execute the Program
 <br />
-**Please be advised that each file might take 6-10 min to run in the first time**
+**Please be advised that each file might take a maximum 6-10 min to run before the next round of code optimization**
 <br />
 
 ## Installing the Pre-required Packages
@@ -98,4 +98,14 @@ Link:
 <br />
 https://public.tableau.com/shared/DMJBHZYXR?:display_count=n&:origin=viz_share_link 
 
+## Predicting Crop Yield with a Trained a Linear Regression Model 
+<br />
+Please run the “Prediction.py" to train the linear model and enter valid values of temperature or precipition to predict a corresponding crop yield for a agricultural species.
+<br />
+<br />
+Please note that since through F-test fit of linear regression models, we concluded that linear correlations only exists for the following data entries, the linear model is only
+trained for predicting crop yields associated with this dataframe(concluded from the previous section "Conlusion of Regression Analysis"):<br />
+<br />
+<img src=https://user-images.githubusercontent.com/89536920/148704230-4f7509d6-6848-4ffd-9a25-99bae0cf9dc7.png width="400" height="150">
+<br />Figure 7: Example chart showing only the types of crop yield linearly correlated to temperature or precipitation change
 
